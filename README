@@ -1,0 +1,28 @@
+SIMPLE CALCULATOR WEB APP
+
+A lightweight calculator built using HTML, CSS, and JavaScript.
+It performs arithmetic operations, addition, substraction, multplication, and division.
+
+==> How To Run The Project
+    Open the project folder
+    Open the index.html file in any browser
+    Start calculating
+
+==> How It Works    
+  . Buttons are selected using querySelectorAll().
+
+  . When a user clicks a button, an event listener captures the input.
+
+  . The calculator stores the input as a string and evaluate it when "=" is pressed.
+
+  . The display updates dynamically to show each action and result.
+
+
+
+Author
+
+ Prince Mwacha Aloyce.
+
+ princealoyce21@gmail.com
+
+ Frontend Web Developer in training passionate about learning and building projects with HTML, CSS, and JavaScript
